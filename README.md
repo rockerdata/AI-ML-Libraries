@@ -8,3 +8,6 @@ https://github.com/mendableai/open-lovable
 https://github.com/microsoft/data-formulator
 
 https://github.com/jhk0530/showmaker
+
+photoshop alternative 
+https://github.com/QwenLM/Qwen-Image
