@@ -11,3 +11,5 @@ https://github.com/jhk0530/showmaker
 
 photoshop alternative 
 https://github.com/QwenLM/Qwen-Image
+
+https://github.com/rohitg00/agentmemory
