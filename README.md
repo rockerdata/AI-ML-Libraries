@@ -13,3 +13,5 @@ photoshop alternative
 https://github.com/QwenLM/Qwen-Image
 
 https://github.com/rohitg00/agentmemory
+
+https://github.com/colbymchenry/codegraph
